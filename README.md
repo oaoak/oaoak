@@ -26,6 +26,7 @@
 
 #
 
-<h3 align="left">Contacts</h3>
+<h1 align="left">Contacts</h1>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://docs.google.com/spreadsheets/d/15K1Z5yPguqk_nRkZ_0rQ2M9FH6IWBzMcWIye2P4PM_g/edit?usp=sharing)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/khongnat.baibua.9)
